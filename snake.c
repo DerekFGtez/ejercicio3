@@ -15,7 +15,7 @@ int tablero[20][40];
 struct serpiente
 {
 int serpiente[100]
-void direccion( )
+void direccion()
 };
  
 typedef struct {
